@@ -19,6 +19,11 @@ Created Maven project ,please fine pom.xml file which confirm it is maven based 
 Assignment 5 :
 Pushing this to github , will share the public repo 
 
-All other assignments(6-10) were part of other repo 
+Assignment 8 : EMP_Data in SQL Server using SQL DDL Commands
+Please refer Assignment8.txt file that has sql commands .
+
+All other assignments(6-10) were part of other repo , will the details seperately
+
+
 
 
